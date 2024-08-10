@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/RusHerrr07/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/RusHerrr07/Leetcode/tree/master/0221-maximal-square) |
 | [0921-spiral-matrix-iii](https://github.com/RusHerrr07/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/RusHerrr07/Leetcode/tree/master/0221-maximal-square) |
 | [0921-spiral-matrix-iii](https://github.com/RusHerrr07/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -108,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
