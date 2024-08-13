@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/RusHerrr07/Leetcode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/RusHerrr07/Leetcode/tree/master/0221-maximal-square) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RusHerrr07/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
