@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/RusHerrr07/Leetcode/tree/master/0221-maximal-square) |
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Matrix
 |  |
