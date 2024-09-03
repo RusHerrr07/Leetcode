@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/RusHerrr07/Leetcode/tree/master/0120-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RusHerrr07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
