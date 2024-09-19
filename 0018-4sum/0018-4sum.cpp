@@ -13,7 +13,7 @@ public:
             int l=n-1;
             while(l>k)
             {
-            long long sum=long(nums[i])+long(nums[j])+long(nums[k])+(nums[l]);
+            long long sum=long(nums[i])+long(nums[j])+long(nums[k])+long(nums[l]);
             if(sum==target)
             {
                  set.insert({nums[i], nums[j], nums[k], nums[l]});
