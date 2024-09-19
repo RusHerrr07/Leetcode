@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RusHerrr07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Prefix Sum
 |  |
