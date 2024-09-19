@@ -1,9 +1,7 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-         int n = s.size(); // Define n here, after reading the string
-    vector<int> dp(n + 1, 0); // Moved the dp declaration after n
-
+    int n = s.size();
     stack<int> st;
     int i = 0;
     st.push(-1);
