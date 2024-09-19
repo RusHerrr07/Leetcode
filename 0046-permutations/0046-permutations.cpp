@@ -1,5 +1,3 @@
-#include <vector>
-#include <algorithm>
 
 class Solution {
     long long factorial(int n) {
