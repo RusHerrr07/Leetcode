@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/RusHerrr07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/RusHerrr07/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RusHerrr07/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2727-number-of-senior-citizens](https://github.com/RusHerrr07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RusHerrr07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
