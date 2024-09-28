@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    long long maximumTotalSum(std::vector<int>& maximumHeight) {
+    long long maximumTotalSum(vector<int>& maximumHeight) {
         long long sum = 0;
         int n = maximumHeight.size();
         sort(maximumHeight.begin(), maximumHeight.end(),greater<int>());
