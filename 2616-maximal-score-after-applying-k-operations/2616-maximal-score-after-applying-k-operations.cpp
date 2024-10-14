@@ -10,7 +10,7 @@ public:
             int val = pq.top();
             pq.pop();
             score += val;
-            pq.push((val + 2) / 3);
+            pq.push(ceil(val / 3.0));
             k--;
         }
         return score;
