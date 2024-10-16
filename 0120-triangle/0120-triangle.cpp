@@ -13,9 +13,9 @@ int solve(vector<vector<int>>& triangle, int i, int j, int n, int m) {
         return dp[i][j];
     }
     int first = INT_MAX, sec = INT_MAX;
-    if (j + 1 < triangle[i + 1].size()) {
+    
         first = solve(triangle, i + 1, j + 1, n, m);
-    }
+    
     sec = solve(triangle, i + 1, j, n, m);
     dp[i][j] = min(first, sec)+triangle[i][j];
     return dp[i][j];
