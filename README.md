@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/RusHerrr07/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/RusHerrr07/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1256-rank-transform-of-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/RusHerrr07/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/RusHerrr07/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
