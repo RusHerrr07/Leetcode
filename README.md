@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RusHerrr07/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/RusHerrr07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RusHerrr07/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RusHerrr07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/RusHerrr07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RusHerrr07/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RusHerrr07/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
 | ------- |
