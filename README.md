@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2342-minimum-average-difference](https://github.com/RusHerrr07/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2001-jump-game-vii](https://github.com/RusHerrr07/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2342-minimum-average-difference](https://github.com/RusHerrr07/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
