@@ -82,5 +82,9 @@ set<string>ans;
             pi[i]=j;
         }
         return pi;
+
+
+
+        ///but yaha ye koi kam ka nahi hai i think---
     }
 };
