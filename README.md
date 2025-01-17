@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/RusHerrr07/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## String
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RusHerrr07/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
@@ -498,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -512,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RusHerrr07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
