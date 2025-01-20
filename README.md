@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RusHerrr07/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2700-substring-xor-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2700-substring-xor-queries) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/RusHerrr07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Sliding Window
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RusHerrr07/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RusHerrr07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2700-substring-xor-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RusHerrr07/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
