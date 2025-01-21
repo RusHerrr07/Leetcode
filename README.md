@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/RusHerrr07/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/RusHerrr07/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RusHerrr07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2700-substring-xor-queries](https://github.com/RusHerrr07/Leetcode/tree/master/2700-substring-xor-queries) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/RusHerrr07/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/RusHerrr07/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
