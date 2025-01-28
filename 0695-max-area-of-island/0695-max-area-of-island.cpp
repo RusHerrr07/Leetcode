@@ -45,8 +45,8 @@ public:
         for (int i =0; i<n; i++)
             for (int j=0; j < m; j++)
                 if (grid[i][j] != 0) 
-                    // maxi = max(maxi, BFS(grid, i, j, n, m));
-                    maxi = max(maxi, DFS(grid, i, j, n, m));
+                    maxi = max(maxi, BFS(grid, i, j, n, m));
+                    // maxi = max(maxi, DFS(grid, i, j, n, m));
         return maxi;
         
     }
