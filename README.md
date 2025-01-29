@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RusHerrr07/Leetcode/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RusHerrr07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RusHerrr07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/RusHerrr07/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
