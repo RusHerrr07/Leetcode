@@ -1,6 +1,5 @@
 
-/*
-   class DSU {
+class DSU {
     vector<int> parent, rank;
 public:
     DSU(int n) {
@@ -90,90 +89,6 @@ public:
             maxi += layers;
         }
 
-        return maxi;
-    }
-};
-
-
-
-*/
-
-
-
-
-
-class Solution {
-    void DFS(vector<vector<int>>& adj, int i, vector<bool>& vist, vector<int>& compo) {
-        if (vist[i]) return;
-        vist[i] = true;
-        compo.push_back(i);
-        for (auto& neigh : adj[i]) {
-            if (!vist[neigh]) {
-                DFS(adj, neigh, vist, compo);
-            }
-        }
-    }
-
-    int bfs(vector<vector<int>>& adj, vector<int>& comp, int n) {
-        int maxLayers = 0;
-        for (int start : comp) {
-            vector<int> level(n + 1, -1);
-            queue<int> q;
-            q.push(start);
-            level[start] = 0;
-            int layers = 0;
-
-            while (!q.empty()) {
-                int node = q.front();
-                q.pop();
-                layers = max(layers, level[node]);
-
-                for (int neigh : adj[node]) {
-                    if (level[neigh] == -1) {
-                        level[neigh] = level[node] + 1;
-                        q.push(neigh);
-                    } else if (level[neigh] == level[node]) {
-                        return -1;
-                    }
-                }
-            }
-            maxLayers = max(maxLayers, layers + 1);
-        }
-        return maxLayers;
-    }
-
-public:
-    int magnificentSets(int n, vector<vector<int>>& edges) {
-        vector<vector<int>> adj(n + 1);
-        for (auto& i : edges) {
-            adj[i[0]].push_back(i[1]);
-            adj[i[1]].push_back(i[0]);
-        }
-        vector<bool> vist(n + 1, false);
-        vector<vector<int>> ConnectedComponents;
-        for (int i = 1; i <= n; i++) {
-            if (!vist[i]) {
-                vector<int> comp;
-                DFS(adj, i, vist, comp);
-                ConnectedComponents.push_back(comp);
-            }
-        }
-
-         // for (auto& comp : ConnectedComponents) {
-        //     for (int node : comp) {
-        //         cout << node << " ";
-        //     }
-        //     cout << endl;
-        // }
-
-        //ab aao asli kam kare--->
-
-        int maxi = 0;
-        for (auto& comp : ConnectedComponents) {
-            int layers = bfs(adj, comp, n);
-            if (layers == -1) return -1;
-            maxi += layers;
-        }
         return maxi;
     }
 };
