@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RusHerrr07/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RusHerrr07/Leetcode/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/RusHerrr07/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RusHerrr07/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
