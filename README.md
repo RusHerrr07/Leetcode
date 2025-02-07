@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/RusHerrr07/Leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/RusHerrr07/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3541-report-spam-message](https://github.com/RusHerrr07/Leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RusHerrr07/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/RusHerrr07/Leetcode/tree/master/3541-report-spam-message) |
 ## Sorting
