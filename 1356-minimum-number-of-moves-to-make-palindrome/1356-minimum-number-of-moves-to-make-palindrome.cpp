@@ -3,7 +3,7 @@ public:
     int minMovesToMakePalindrome(string s) {
         int n=s.size(),cnt=0;
         int i=0,j=n-1;
-        while(j>i){
+        while(j>=i){
             if(s[i]==s[j]){
                 i++;
                 j--;
