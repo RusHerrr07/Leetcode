@@ -1,6 +1,6 @@
 class Solution {
 public:
-    std::vector<int> rearrangeArray(std::vector<int>& nums) {
+    vector<int> rearrangeArray(vector<int>& nums) {
 
         deque<int>pos,neg;
         vector<int>ans;
