@@ -59,6 +59,28 @@ public:
 class Solution {
 public:
     int numSpecialEquivGroups(vector<string>& words) {
+
+
+
+
+/*
+
+Optimized Algorithm-->
+
+1>>Generate a unique signature for each word:
+   Count frequencies of characters at even indices.
+   Count frequencies of characters at odd indices.
+   Convert the two frequency arrays into a string key.
+2>>Use a set to store unique signatures.
+3>>The size of the set gives the number of special-equivalent groups.
+
+
+Time Complexity
+Creating the signature takes O(m) time per word.
+Inserting into a set takes O(1) on average.
+Overall, the approach runs in O(n * m), which is much faster than O(n² * m).
+*/
+
         unordered_set<string>s;
         
         for(const string& s1:words){
