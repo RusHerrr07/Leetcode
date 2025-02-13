@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/RusHerrr07/Leetcode/tree/master/0878-shifting-letters) |
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/RusHerrr07/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0878-shifting-letters](https://github.com/RusHerrr07/Leetcode/tree/master/0878-shifting-letters) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RusHerrr07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1256-rank-transform-of-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
