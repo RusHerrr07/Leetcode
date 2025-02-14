@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RusHerrr07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/RusHerrr07/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RusHerrr07/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2232-adding-spaces-to-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/RusHerrr07/Leetcode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RusHerrr07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/RusHerrr07/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RusHerrr07/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RusHerrr07/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
