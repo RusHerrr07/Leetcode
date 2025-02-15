@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/RusHerrr07/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/RusHerrr07/Leetcode/tree/master/1304-longest-happy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/RusHerrr07/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/RusHerrr07/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/RusHerrr07/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RusHerrr07/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
