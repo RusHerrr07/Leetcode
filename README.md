@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RusHerrr07/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RusHerrr07/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/RusHerrr07/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/RusHerrr07/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RusHerrr07/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2001-jump-game-vii](https://github.com/RusHerrr07/Leetcode/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RusHerrr07/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/RusHerrr07/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/RusHerrr07/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
