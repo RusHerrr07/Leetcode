@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/RusHerrr07/Leetcode/tree/master/0909-stone-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RusHerrr07/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
