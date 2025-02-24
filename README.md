@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RusHerrr07/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RusHerrr07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RusHerrr07/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RusHerrr07/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RusHerrr07/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/RusHerrr07/Leetcode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RusHerrr07/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RusHerrr07/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RusHerrr07/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/RusHerrr07/Leetcode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
