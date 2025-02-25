@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RusHerrr07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/RusHerrr07/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2001-jump-game-vii](https://github.com/RusHerrr07/Leetcode/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RusHerrr07/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RusHerrr07/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2434-design-a-number-container-system](https://github.com/RusHerrr07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/RusHerrr07/Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RusHerrr07/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Math
 |  |
