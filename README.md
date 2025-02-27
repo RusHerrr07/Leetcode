@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/RusHerrr07/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/RusHerrr07/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RusHerrr07/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/RusHerrr07/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 ## Linked List
 |  |
 | ------- |
