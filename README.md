@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2102-find-the-middle-index-in-array](https://github.com/RusHerrr07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RusHerrr07/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RusHerrr07/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/RusHerrr07/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RusHerrr07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/RusHerrr07/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/RusHerrr07/Leetcode/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RusHerrr07/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2342-minimum-average-difference](https://github.com/RusHerrr07/Leetcode/tree/master/2342-minimum-average-difference) |
