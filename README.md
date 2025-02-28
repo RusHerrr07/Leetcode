@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RusHerrr07/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RusHerrr07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RusHerrr07/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/RusHerrr07/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/RusHerrr07/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RusHerrr07/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RusHerrr07/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RusHerrr07/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RusHerrr07/Leetcode/tree/master/3447-clear-digits) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RusHerrr07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RusHerrr07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Memoization
