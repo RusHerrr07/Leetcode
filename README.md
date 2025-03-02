@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RusHerrr07/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/RusHerrr07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RusHerrr07/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RusHerrr07/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1955-seat-reservation-manager](https://github.com/RusHerrr07/Leetcode/tree/master/1955-seat-reservation-manager) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RusHerrr07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
