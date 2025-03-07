@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/RusHerrr07/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RusHerrr07/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RusHerrr07/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RusHerrr07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/RusHerrr07/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Game Theory
 |  |
