@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RusHerrr07/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/RusHerrr07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RusHerrr07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RusHerrr07/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/RusHerrr07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RusHerrr07/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0424-longest-repeating-character-replacement](https://github.com/RusHerrr07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/RusHerrr07/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/RusHerrr07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
