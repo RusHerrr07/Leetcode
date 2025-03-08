@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RusHerrr07/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/RusHerrr07/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RusHerrr07/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RusHerrr07/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RusHerrr07/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RusHerrr07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RusHerrr07/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/RusHerrr07/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RusHerrr07/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RusHerrr07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/RusHerrr07/Leetcode/tree/master/2487-optimal-partition-of-string) |
