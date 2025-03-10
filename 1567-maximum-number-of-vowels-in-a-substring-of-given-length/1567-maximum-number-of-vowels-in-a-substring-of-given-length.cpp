@@ -12,7 +12,7 @@ public:
             if(st.find(ch)!=st.end()){
                 cnt++;
             }
-            while(j-i+1>=k ){
+            if(j-i+1>=k ){
                   maxi=max(maxi,cnt);
                   if(st.find(s[i])!=st.end())cnt--;
                   i++;
