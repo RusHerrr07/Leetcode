@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/RusHerrr07/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
 | [1025-minimum-cost-for-tickets](https://github.com/RusHerrr07/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RusHerrr07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/RusHerrr07/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RusHerrr07/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1483-rank-teams-by-votes](https://github.com/RusHerrr07/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RusHerrr07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/RusHerrr07/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RusHerrr07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/RusHerrr07/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1009-pancake-sorting](https://github.com/RusHerrr07/Leetcode/tree/master/1009-pancake-sorting) |
 | [1304-longest-happy-string](https://github.com/RusHerrr07/Leetcode/tree/master/1304-longest-happy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/RusHerrr07/Leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/RusHerrr07/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
