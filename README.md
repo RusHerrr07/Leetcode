@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/RusHerrr07/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RusHerrr07/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RusHerrr07/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RusHerrr07/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RusHerrr07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RusHerrr07/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/RusHerrr07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RusHerrr07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RusHerrr07/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RusHerrr07/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/RusHerrr07/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RusHerrr07/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
