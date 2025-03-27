@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/RusHerrr07/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RusHerrr07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RusHerrr07/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1923-sentence-similarity-iii](https://github.com/RusHerrr07/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RusHerrr07/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/RusHerrr07/Leetcode/tree/master/1972-rotating-the-box) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RusHerrr07/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RusHerrr07/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2001-jump-game-vii](https://github.com/RusHerrr07/Leetcode/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RusHerrr07/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RusHerrr07/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RusHerrr07/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/RusHerrr07/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RusHerrr07/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/RusHerrr07/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RusHerrr07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/RusHerrr07/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/RusHerrr07/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RusHerrr07/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2107-find-unique-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RusHerrr07/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/RusHerrr07/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/RusHerrr07/Leetcode/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RusHerrr07/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RusHerrr07/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RusHerrr07/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -862,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RusHerrr07/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/RusHerrr07/Leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Game Theory
@@ -876,4 +882,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/RusHerrr07/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1906-maximize-score-after-n-operations](https://github.com/RusHerrr07/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
