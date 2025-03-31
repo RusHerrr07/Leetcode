@@ -13,19 +13,17 @@ public:
         long long maxi = 0;
         long long sum = 0;
 
+
         while(idx >= 0) {
             long long mini = arr[idx].first;
             long long value = arr[idx].second;
             pq.push(value);
             sum += value;
 
-            if(pq.size() > k) {
-                sum -= pq.top();
-                pq.pop();
-            }
-
             if(pq.size() == k) {
                 maxi = max(maxi, sum * mini);
+                sum -= pq.top();
+                pq.pop();
             }
             idx--;
         }
