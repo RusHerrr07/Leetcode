@@ -4,15 +4,11 @@ public:
         int sx = startPos[0], sy = startPos[1];
         int dx = homePos[0], dy = homePos[1];
         int cost = 0;
-
-        // Move in x-direction
         if (sx < dx) {
             for (int i = sx + 1; i <= dx; i++) cost += rowCosts[i];
         } else {
             for (int i = sx - 1; i >= dx; i--) cost += rowCosts[i];
         }
-
-        // Move in y-direction
         if (sy < dy) {
             for (int j = sy + 1; j <= dy; j++) cost += colCosts[j];
         } else {
