@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RusHerrr07/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/RusHerrr07/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/RusHerrr07/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RusHerrr07/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RusHerrr07/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
