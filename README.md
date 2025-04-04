@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/RusHerrr07/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/RusHerrr07/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/RusHerrr07/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/RusHerrr07/Leetcode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RusHerrr07/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RusHerrr07/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
