@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RusHerrr07/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/RusHerrr07/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/RusHerrr07/Leetcode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Matrix
 |  |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RusHerrr07/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/RusHerrr07/Leetcode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Breadth-First Search
 |  |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RusHerrr07/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RusHerrr07/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RusHerrr07/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/RusHerrr07/Leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/RusHerrr07/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
