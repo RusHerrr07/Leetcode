@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/RusHerrr07/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RusHerrr07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
