@@ -1,8 +1,8 @@
 class Solution {
-    int ans=0;
     int dp[5000+1][2+1];
     int solve(vector<int>&prices,int idx,int n,int isBuy){
         if(idx>=n) return 0;
+        int ans=0;
         if(dp[idx][isBuy]!=-1) return dp[idx][isBuy];
         if(isBuy){
             int buy=-prices[idx]+solve(prices,idx+1,n,0);
