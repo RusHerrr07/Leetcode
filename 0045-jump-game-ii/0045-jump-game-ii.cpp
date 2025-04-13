@@ -1,7 +1,6 @@
 class Solution {
 vector<int>dp;
  int solve(vector<int>& arr, int idx, int n) {
-    if(idx>=n)return 1e9;
         if(idx >= n-1) return 0;
         if(dp[idx] != -1) return dp[idx];
 
@@ -14,8 +13,8 @@ vector<int>dp;
     }
 public:
     int jump(vector<int>& nums) {
-        int n=nums.size();
-        if(n==1)return 0;
+        // int n=nums.size();
+        // if(n==1)return 0;
         // if(nums[0]==0)return 
         // int cnt=1;
         // int val=nums[0];
@@ -30,8 +29,24 @@ public:
         // }
         // return cnt;
 
-        dp.assign(n,-1);
-        return solve(nums,0,n);
+        // dp.assign(n,-1);
+        // return solve(nums,0,n);
+
+
+
+
+        // chalo phise see lalchiii approach lagate hai-->
+    int n = nums.size(), jumps = 0, end = 0, far = 0;
+    for(int i = 0; i < n - 1; i++) {
+        far = max(far, i + nums[i]);
+        if(i == end) {
+            jumps++;
+            end = far;
+        }
+    }
+    return jumps;
+
+
     
     }
 };
