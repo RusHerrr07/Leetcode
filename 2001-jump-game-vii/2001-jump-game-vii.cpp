@@ -4,11 +4,15 @@ public:
         int n = s.size();
         vector<bool> dp(n, false);
         dp[0] = true;
-        int reachable = 0;
+        int ohk = 0;
         for (int i = 1; i < n; ++i) {
-            if (i >= minJump) reachable += dp[i - minJump];
-            if (i > maxJump) reachable -= dp[i - maxJump - 1];
-            dp[i] = (s[i] == '0' && reachable > 0);
+            if (i >= minJump) {
+                ohk += dp[i - minJump];
+                }
+            if (i > maxJump) {
+                ohk -= dp[i - maxJump - 1];
+                }
+            dp[i] = (s[i] == '0' && ohk > 0);
         }
         return dp[n - 1];
     }
