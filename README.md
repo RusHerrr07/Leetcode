@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/RusHerrr07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/RusHerrr07/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RusHerrr07/Leetcode/tree/master/0070-climbing-stairs) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RusHerrr07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0476-number-complement](https://github.com/RusHerrr07/Leetcode/tree/master/0476-number-complement) |
 | [1418-fair-distribution-of-cookies](https://github.com/RusHerrr07/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
