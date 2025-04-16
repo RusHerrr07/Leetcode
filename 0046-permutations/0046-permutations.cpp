@@ -1,27 +1,13 @@
-
 class Solution {
-    // long long factorial(int n) {
-    //     if (n < 0) return 0;
-
-    //     std::vector<long long> dp(n + 1, 1);
-
-    //     for (int i = 2; i <= n; ++i) {
-    //         dp[i] = dp[i - 1] * i;
-    //     }
-
-    //     return dp[n];
-    // }
-
 public:
-    std::vector<std::vector<int>> permute(std::vector<int>& nums) {
-        std::vector<std::vector<int>> ans;
-        int n = nums.size();
-        // long long fact = factorial(n);
-
-        sort(nums.begin(), nums.end());
-        do {
+    vector<vector<int>> permute(vector<int>& nums) {
+        int n=nums.size();
+        vector<vector<int>>ans;
+        sort(nums.begin(),nums.end()); 
+        ans.push_back(nums);
+        while (next_permutation(nums.begin(), nums.end()))
             ans.push_back(nums);
-        } while (next_permutation(nums.begin(), nums.end()));
+      
 
         return ans;
     }
