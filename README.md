@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RusHerrr07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RusHerrr07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RusHerrr07/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RusHerrr07/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/RusHerrr07/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RusHerrr07/Leetcode/tree/master/0070-climbing-stairs) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RusHerrr07/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0060-permutation-sequence) |
 | [0273-integer-to-english-words](https://github.com/RusHerrr07/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RusHerrr07/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
