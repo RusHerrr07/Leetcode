@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0045-jump-game-ii) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RusHerrr07/Leetcode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/RusHerrr07/Leetcode/tree/master/0131-palindrome-partitioning) |
