@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RusHerrr07/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/0053-maximum-subarray) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RusHerrr07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RusHerrr07/Leetcode/tree/master/0055-jump-game) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RusHerrr07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/RusHerrr07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RusHerrr07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RusHerrr07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/RusHerrr07/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RusHerrr07/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/RusHerrr07/Leetcode/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
