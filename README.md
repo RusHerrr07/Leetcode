@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RusHerrr07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RusHerrr07/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RusHerrr07/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RusHerrr07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RusHerrr07/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/RusHerrr07/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
