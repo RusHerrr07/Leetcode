@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RusHerrr07/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RusHerrr07/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/0053-maximum-subarray) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RusHerrr07/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RusHerrr07/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/RusHerrr07/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/RusHerrr07/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/RusHerrr07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
