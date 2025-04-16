@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RusHerrr07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RusHerrr07/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RusHerrr07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RusHerrr07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RusHerrr07/Leetcode/tree/master/0055-jump-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RusHerrr07/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/RusHerrr07/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RusHerrr07/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RusHerrr07/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RusHerrr07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RusHerrr07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RusHerrr07/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/RusHerrr07/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RusHerrr07/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/RusHerrr07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RusHerrr07/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RusHerrr07/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RusHerrr07/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/RusHerrr07/Leetcode/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/RusHerrr07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RusHerrr07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/RusHerrr07/Leetcode/tree/master/0778-reorganize-string) |
